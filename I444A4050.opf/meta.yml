@@ -1,0 +1,36 @@
+id: I444A4050
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:25:18.640430'
+last_modified: '2022-06-19T13:25:18.640446'
+parser: null
+source_metadata:
+  title: 5th Dalai Lamas Annals
+  author: ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-16);
+    converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:unspecified
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/32
+  bases:
+    f32f:
+      title: 5th Dalai Lamas Annals
+      order: 1
+      base_file: f32f.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
